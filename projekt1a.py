@@ -2,7 +2,7 @@
 
 
 
-print("Oto one shot, krótka opowieść. Decyzje podejmuj rozważnie, a odpowiedzi formułuj dokładnie tak jak zadane są pytania. W razie problemów, spójrz w kod. Powodzenia!")
+print("Oto one shot (krótka opowieść). Decyzje podejmuj bardzo rozważnie, a odpowiedzi formułuj dokładnie tak, jak zadane są pytania. W razie problemów, spójrz w kod. Powodzenia!")
 
 print("Z dalekiej krainy mrozu i śniegu długą drogę przebył do Programlandii młody poszukiwacz przygód. Jesteś nim ty. Programlandia jednak podzielona jest na wiele mniejszych landów, z których rozpatrujesz odwiedzić Pythron lub Cessię. Wybór należy do Ciebie. Pythron czy Cessia?")
 wybrany_land = input()
